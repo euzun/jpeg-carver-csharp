@@ -5,7 +5,7 @@
 
 ## Dependencies
 * Environment: Windows OS, .Net support
-* Libraries: MathNet.Numerics.dll(https://numerics.mathdotnet.com/) should be in the same folder with JpegRecovery.exe.
+* Libraries: [MathNet.Numerics.dll](https://numerics.mathdotnet.com/) should be in the same folder with JpegRecovery.exe.
 
 
 ## Usage
