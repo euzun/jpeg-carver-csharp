@@ -11,7 +11,6 @@
 ## Usage
 * Example Usage: Type the following on command line or just double clickr "run.bat" file.
 * JpegRecovery.exe "binary_file_name"
-
 * Input: binary_file_name -> Binary data file e.g., raw_dragon
 * Output: writes .jpg file in the same directory with input "binary_file_name" (e.g., raw_dragon.jpg)
 
