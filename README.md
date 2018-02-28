@@ -1,11 +1,11 @@
 # jpeg-carver-csharp
 * This repo includes a C# toolbox for the orphaned jpeg fragment recovery method presented in following paper.
 * This is a pure C# implemented code.
-* WARNING: Check the dependency library to run the code!!!
+* **WARNING**: Check the dependency library to run the code!!!
 
 ## Dependencies
 * Environment: Windows OS, .Net support
-* Libraries: [MathNet.Numerics.dll](https://numerics.mathdotnet.com/) should be in the same folder with JpegRecovery.exe.
+* **Libraries**: [MathNet.Numerics.dll](https://numerics.mathdotnet.com/) should be in the same folder with JpegRecovery.exe.
 
 
 ## Usage
