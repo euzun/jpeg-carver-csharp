@@ -22,10 +22,9 @@
 * raw_dragon: A sample binary file that contains only encoded data of "full_dragon.jpg" file.
 * orphaned_dragon.jpg: The recovered file you should get once run.bat executed.
 * full_dragon.jpg: The reference sample full Jpeg file to compare with recovered orphaned file.
-* Carving orphaned jpeg file fragments.pdf: Related paper.
 
 ## Citation
 * Please cite to following paper(s) if you use these tools for academic purpose;
 
-* E. Uzun and H. T. Sencar, “Carving orphaned jpeg file fragments”, IEEETransactions on Information Forensics and Security, vol. 10, no. 8, pp.1549–1563, 2015.
+* E. Uzun and H. T. Sencar, “[Carving orphaned jpeg file fragments](https://www.researchgate.net/publication/275044127_Carving_Orphaned_JPEG_File_Fragments)”, IEEETransactions on Information Forensics and Security, vol. 10, no. 8, pp.1549–1563, 2015.
 
