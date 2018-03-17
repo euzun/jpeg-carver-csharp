@@ -1,1 +1,0 @@
-JpegRecovery.exe raw_dragon
