@@ -1,4 +1,4 @@
-# !! Code will be available soon..
+# !! Code will be open-sourced soon..
 
 # jpeg-carver-csharp
 * This repo includes a C# toolbox for the orphaned jpeg fragment recovery method presented in following paper.
@@ -26,7 +26,9 @@
 * full_dragon.jpg: The reference sample full Jpeg file to compare with recovered orphaned file.
 
 ## Citation
-* Please cite to following paper(s) if you use these tools for academic purpose;
+* Please cite to following papers if you use this tool for academic purpose;
+
+* E. Uzun and H. T. Sencar, “[JpgScraper: An Advanced Carver for JPEG Files](https://doi.org/10.1109/TIFS.2019.2953382)”, IEEETransactions on Information Forensics and Security, 2019.
 
 * E. Uzun and H. T. Sencar, “[Carving orphaned jpeg file fragments](https://www.researchgate.net/publication/275044127_Carving_Orphaned_JPEG_File_Fragments)”, IEEETransactions on Information Forensics and Security, vol. 10, no. 8, pp.1549–1563, 2015.
 
