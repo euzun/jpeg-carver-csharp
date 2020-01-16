@@ -1,7 +1,5 @@
-# !! Code will be open-sourced soon..
-
 # jpeg-carver-csharp
-* This repo includes a C# toolbox for the orphaned jpeg fragment recovery method presented in following paper.
+* This repo includes an executable of C# toolbox for the orphaned jpeg fragment recovery method presented in following paper.
 * This is a pure C# implemented code.
 * **WARNING**: Check the dependency library to run the code!!!
 
